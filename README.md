@@ -1,1 +1,1 @@
-My first readme
+this repo is for LAX SE course 
